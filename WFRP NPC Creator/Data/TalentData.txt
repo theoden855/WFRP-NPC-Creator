@@ -5,7 +5,7 @@ Friday, August 24, 2018
 
 Max: Ballistic Skill Bonus 
 
-You are an exceptional shot and know where to shoot an enemy in order to in?ict maximum damage. You deal your Accurate Shot level in extra Damage with all ranged weapons.
+You are an exceptional shot and know where to shoot an enemy in order to in?ict maximum damage. You deal your Accurate Shot level in extra Damage with all ranged weapons. test1
 
 Acute Sense (Sense)
 0
@@ -15,7 +15,7 @@ Friday, August 24, 2018
 Max: Initiative Bonus
 Test: Perception (Sense)
 
-One of your primary five senses is highly developed, allowing you to spot what others miss. You may take Perception Tests to detect normally imperceptible details with the associated sense, as dictated by the GM. This could include: seeing an eagle beyond everyone elseís eyeshot, smelling an almost odorless poison, hearing the breath of an unmoving mouse within a wall, feeling a worn away letter in a carving, or tasting that two beers from the same brewer have been drawn from two di?erent barrels.
+One of your primary five senses is highly developed, allowing you to spot what others miss. You may take Perception Tests to detect normally imperceptible details with the associated sense, as dictated by the GM. This could include: seeing an eagle beyond everyone elseÁó¥ eyeshot, smelling an almost odorless poison, hearing the breath of an unmoving mouse within a wall, feeling a worn away letter in a carving, or tasting that two beers from the same brewer have been drawn from two di?erent barrels.
 
 Aethyric Attunement
 1
@@ -44,7 +44,7 @@ Friday, August 24, 2018
 
 Max: 2
 
-You can use your o?-hand far better than most folk, either by training or innate talent. You only su?er a penalty of ÅE0 to Tests relying solely on your secondary hand, not ÅE0. If you have this Talent twice, you su?er no penalty at all.
+You can use your o?-hand far better than most folk, either by training or innate talent. You only su?er a penalty of „Éª0 to Tests relying solely on your secondary hand, not „Éª0. If you have this Talent twice, you su?er no penalty at all.
 
 Animal Affinity
 0
@@ -63,13 +63,13 @@ Friday, August 24, 2018
 
 Max: 1 
 
-You either study one of the 8 Arcane Lores of Magic ÅEBeasts, Death, Fire, Heavens, Metal, Shadow, Light, or Life ÅEor practice a lesser known Lore, such as Hedgecraft or Necromancy. You may now memorize spells from your chosen Lore for the following cost in XP. 
+You either study one of the 8 Arcane Lores of Magic „ÉªBeasts, Death, Fire, Heavens, Metal, Shadow, Light, or Life „Éªor practice a lesser known Lore, such as Hedgecraft or Necromancy. You may now memorize spells from your chosen Lore for the following cost in XP. 
 
 Number of Spells Currently Known	XP Cost for a new spell 
-Intelligence Bonus ◊ 1  	100 XP
-Intelligence Bonus ◊ 2 	200 XP
-Intelligence Bonus ◊ 3 	300 XP
-Intelligence Bonus ◊ 4 	400 XP
+Intelligence Bonus Ôæó 1  	100 XP
+Intelligence Bonus Ôæó 2 	200 XP
+Intelligence Bonus Ôæó 3 	300 XP
+Intelligence Bonus Ôæó 4 	400 XP
  ...and so on. 
 
 So, if your Intelligence Bonus is 4, it will cost you 100 XP for the first 4 spells, then 200 XP for the next 4, and so on. Full rules for learning new spells are provided in Chapter 8: Magic@@. Under normal circumstances, you may not learn more than one Arcane Magic (Lore) Talent. Further, you may not learn the Bless or Invoke Talents when you have the Arcane Magic Talent. You can unlearn this Talent for 100 XP, but will immediately lose all of your spells if you do so.
@@ -102,7 +102,7 @@ Friday, August 24, 2018
 Max: Fellowship Bonus 
 Tests: Charm Tests to in?uence those attracted to you 
 
-Whether itís your piercing eyes, your strong frame, or maybe the way you ?ash your perfect teeth, you know how to make the best use of what the gods gave you. When you successfully use Charm to in?uence those attracted to you, you can choose to either use your rolled SL, or the number rolled on your units die. So, a successful roll of 38 could be used for +8 SL.
+Whether itÁó¥ your piercing eyes, your strong frame, or maybe the way you ?ash your perfect teeth, you know how to make the best use of what the gods gave you. When you successfully use Charm to in?uence those attracted to you, you can choose to either use your rolled SL, or the number rolled on your units die. So, a successful roll of 38 could be used for +8 SL.
 
 Battle Rage
 1
@@ -122,7 +122,7 @@ Friday, August 24, 2018
 Max: Weapon Skill Bonus 
 Tests: Melee for a Beat Blade 
 
-You are trained to make sharp controlled blows to your opponentís weapon, creating an opening for an attack or simply impeding an incoming attack. For your Action, you can choose to Beat Blade before rolling. Perform a Melee Test; if successful, your opponent loses ÅE Advantage, and loses a further ÅE per SL you score. This Test is not Opposed. Tis Talent is of no use if your opponent has no weapon, or has a larger Size than you (see page 341@@).
+You are trained to make sharp controlled blows to your opponentÁó¥ weapon, creating an opening for an attack or simply impeding an incoming attack. For your Action, you can choose to Beat Blade before rolling. Perform a Melee Test; if successful, your opponent loses „Éª Advantage, and loses a further „Éª per SL you score. This Test is not Opposed. Tis Talent is of no use if your opponent has no weapon, or has a larger Size than you (see page 341@@).
 
 Beneath Notice
 1
@@ -132,7 +132,7 @@ Friday, August 24, 2018
 Max: Fellowship Bonus 
 Tests: Stealth when in plain sight 
 
-The high and mighty pay no attention to your presence, knowing you are well beneath their notice. Assuming you are properly attired and not in an incongruous position, those of a higher Status Tier will normally ignore you unless your presence becomes inappropriate, which can make it very easy to listen into conversations you perhaps shouldnít. Further, characters with a higher Status Tier than you gain no Advantage for striking or wounding you in combat, as there is nothing to be gained for defeating such a lowly cur.
+The high and mighty pay no attention to your presence, knowing you are well beneath their notice. Assuming you are properly attired and not in an incongruous position, those of a higher Status Tier will normally ignore you unless your presence becomes inappropriate, which can make it very easy to listen into conversations you perhaps shouldnÁ®ö. Further, characters with a higher Status Tier than you gain no Advantage for striking or wounding you in combat, as there is nothing to be gained for defeating such a lowly cur.
 
 Berserk Charge
 1
@@ -152,7 +152,7 @@ Friday, August 24, 2018
 Max: Fellowship Bonus 
 Tests: Charm to Blather 
 
-Called ëopening your mouth and letting your belly rumbleÅEin Nordland, or simply ëbullshittingÅEin Ostland, blathering involves talking rapidly and incessantly, or talking volubly and at-length, about inconsequential or nonsense matters, and is used to verbally confuse and confound a target. You use your Charm Skill to Blather. Attempt an Opposed Charm/Intelligence Test. Success gives your opponent a Stunned Condition. Further, for each level you have in Blather, your opponent gains another Stunned Condition. Targets Stunned by Blather may do nothing other than stare at you dumbfounded as they try to catch-up with or understand what you are saying. Once the last Stunned Condition comes to an end, the target finally gets a word in, and may not be best pleased with you ÅEafter all, you have been talking about nothing or nonsense for some time. Should you stop talking, your opponent immediately loses all Stunned Conditions caused by your Blather. Generally, you can only attempt to Blather at a character once per scene, or perhaps longer as determined by the GM, as the target soon wises up to your antics.
+Called Âèåpening your mouth and letting your belly rumble„Éªin Nordland, or simply Á§éullshitting„Éªin Ostland, blathering involves talking rapidly and incessantly, or talking volubly and at-length, about inconsequential or nonsense matters, and is used to verbally confuse and confound a target. You use your Charm Skill to Blather. Attempt an Opposed Charm/Intelligence Test. Success gives your opponent a Stunned Condition. Further, for each level you have in Blather, your opponent gains another Stunned Condition. Targets Stunned by Blather may do nothing other than stare at you dumbfounded as they try to catch-up with or understand what you are saying. Once the last Stunned Condition comes to an end, the target finally gets a word in, and may not be best pleased with you „Éªafter all, you have been talking about nothing or nonsense for some time. Should you stop talking, your opponent immediately loses all Stunned Conditions caused by your Blather. Generally, you can only attempt to Blather at a character once per scene, or perhaps longer as determined by the GM, as the target soon wises up to your antics.
 
 Bless (Divine Lore)
 0
@@ -210,7 +210,7 @@ Friday, August 24, 2018
 
 Max: Initiative Bonus 
 
-You are skilled at hitting your enemy exactly where you want to, either at range or in melee. You may modify your Hit Location result by up to +/ÅE0 per time you have this Talent. So, if you had this Talent twice and hit location 34, the Right Arm, you could modify this down to 14, the Left Arm, or up to 54, the Body.
+You are skilled at hitting your enemy exactly where you want to, either at range or in melee. You may modify your Hit Location result by up to +/„Éª0 per time you have this Talent. So, if you had this Talent twice and hit location 34, the Right Arm, you could modify this down to 14, the Left Arm, or up to 54, the Body.
 
 
 
@@ -350,7 +350,7 @@ Friday, August 24, 2018
 
 Max: None 
 
-You are an active criminal making money from illegal sources, and youíre not always quiet about it. For the purposes of securing money, either when Earning during play or performing an Income Endeavour, refer to the following table: 
+You are an active criminal making money from illegal sources, and youÊ±†e not always quiet about it. For the purposes of securing money, either when Earning during play or performing an Income Endeavour, refer to the following table: 
 
 Career Level 	Bonus Money per time the Talent is taken 
 1 	+2d10 brass pennies 
@@ -358,7 +358,7 @@ Career Level 	Bonus Money per time the Talent is taken
 3  	+2d10 silver shillings
 4	+1 gold crown 
 
-Because of your obvious criminal nature, others consider you lower Status than them unless they also have the Criminal Talent, where Status is compared as normal ÅEperhaps you have gang tattoos, look shifty, or are just rough around the edges, itís your choice. Because of this, local law enforcers are always suspicious of you and suspect your motivations, which only gets worse the more times you have this Talent, with the exact implications determined by the GM. Lawbreakers without the Criminal Talent earn significantly less coin but are not obviously the sort to be breaking the law, so maintain their Status. With GM consent, you may spend XP to remove levels of the Criminal Talent for the same XP it cost to buy.
+Because of your obvious criminal nature, others consider you lower Status than them unless they also have the Criminal Talent, where Status is compared as normal „Éªperhaps you have gang tattoos, look shifty, or are just rough around the edges, itÁó¥ your choice. Because of this, local law enforcers are always suspicious of you and suspect your motivations, which only gets worse the more times you have this Talent, with the exact implications determined by the GM. Lawbreakers without the Criminal Talent earn significantly less coin but are not obviously the sort to be breaking the law, so maintain their Status. With GM consent, you may spend XP to remove levels of the Criminal Talent for the same XP it cost to buy.
 
 Deadeye Shot
 1
@@ -367,7 +367,7 @@ Friday, August 24, 2018
 
 Max: 1 
 
-You always hit an opponent right between the eyesÅEor wherever else you intended to hit. Instead of reversing the dice to determine which Hit Location is struck with your ranged weapons, you may pick a location.
+You always hit an opponent right between the eyes„Éªor wherever else you intended to hit. Instead of reversing the dice to determine which Hit Location is struck with your ranged weapons, you may pick a location.
 
 Dealmaker
 0
@@ -421,7 +421,7 @@ Friday, August 24, 2018
 Max: Initiative Bonus 
 Tests: Melee Tests concerning this Talent 
 
-You are able to disarm an opponent with a careful ?ick of the wrist or a well-aimed blow to the hand. For your Action, you may attempt an Opposed Melee/Melee test. If you win, your opponent loses a held weapon, which ?ies 1d10 feet in a random direction (with further e?ects as determined by the GM). If you win by 2 SL, you can determine how far the weapon is ?ung instead of rolling randomly; if you win by 4 SL, you can also choose the direction the weapon goes in; if you win by 6 SL or more, you can take your opponentís weapon if you have a free hand, plucking it from the air with a ?ourish. Tis Talent is of no use if your opponent has no weapon, or is a larger Size than you (see page 341@@).
+You are able to disarm an opponent with a careful ?ick of the wrist or a well-aimed blow to the hand. For your Action, you may attempt an Opposed Melee/Melee test. If you win, your opponent loses a held weapon, which ?ies 1d10 feet in a random direction (with further e?ects as determined by the GM). If you win by 2 SL, you can determine how far the weapon is ?ung instead of rolling randomly; if you win by 4 SL, you can also choose the direction the weapon goes in; if you win by 6 SL or more, you can take your opponentÁó¥ weapon if you have a free hand, plucking it from the air with a ?ourish. Tis Talent is of no use if your opponent has no weapon, or is a larger Size than you (see page 341@@).
 
 Distract
 1
@@ -458,7 +458,7 @@ The Prophet Speaketh
 12 Be not like Gnuthus, for thy master counts thy days. 
 13 Three is thy number! 
 14 A beast of brass bellows for thee! 
-15 Ulricís cold hand shall lead thee to Morr. 
+15 UlricÁó¥ cold hand shall lead thee to Morr. 
 16 Watch for the cloven hoof, it is thine enemy. 
 17 Eat neither the chitterlings nor the meat with tubes. 
 18 As thee began, so shalt thou end. 
@@ -468,9 +468,9 @@ The Prophet Speaketh
 22 Beware the young, the child, yea, even the babe. 
 23 Take heed of Mammit and Mummit, for both seek to lay thee low. 
 24 Beware the purse, the sack, the velvet bag. 
-25 The raven answers to Verenaís call, yea, but Her scales are weighted. 
-26 The tiniest of Taalís children shalt feast upon thy gut. 
-27 The limnerís line shalt be false. 
+25 The raven answers to VerenaÁó¥ call, yea, but Her scales are weighted. 
+26 The tiniest of TaalÁó¥ children shalt feast upon thy gut. 
+27 The limnerÁó¥ line shalt be false. 
 28 The holy day shalt be thy last day. 
 29 Thou shalt die in bed, but not thine own! 
 30 Thou shalt feed the barren soil with thy blood. 
@@ -478,7 +478,7 @@ The Prophet Speaketh
 32 The scythe shall reap thy flesh. 
 33 Thy soul, consumed with anger, shall be blinded to the unseen enemy. Roll The Prophet Speaketh 
 34 A friend in need brings thy death with speed. 
-35 Thy last breath is drawn by Morrsleibís light. 
+35 Thy last breath is drawn by MorrsleibÁó¥ light. 
 36 Rats wearing the Horns of Taal shalt bite at thy heels. 
 37 The sword shalt bring no justice, only suffering. 
 38 The twin-tailed comet doth soar as thou dost fall. 
@@ -489,7 +489,7 @@ The Prophet Speaketh
 43 Beware the man that is not a man! 
 44 Beware the Blind Maiden, for Her scales shalt weigh thy soul. 
 45 Thy broken cart shalt herald thy end. 
-46 The bun, the pastry, and the pie, yea, they art Morrís dishes! 
+46 The bun, the pastry, and the pie, yea, they art MorrÁó¥ dishes! 
 47 When the bell doth toll, it doth toll for thee. 
 48 The laurel wreath hides a poisoned thorn. 
 49 Linger not upon the privvie, nor the long drop neither. 
@@ -499,18 +499,18 @@ The Prophet Speaketh
 53 High-born blood shalt spill thine own. 
 54 From above comes thy death. 
 55 Plague and dark disease shalt bring thee to thine knees. 
-56 Beware skin of green, it shalt afflict thee. 57 Beware the verdant depths, within doth lie disaster. 58 Be like the dancer, for rude words bring Morr to thy side. 59 The darkest rot shall eat thee from within. 60 The Gods watch over thy end. 61 Heed not the smith, in his artifice lies thy doom. 62 Wear not Grugniís baldric, for it shall carry thy death. 63 Ready your coins on the thirteenth chime. 64 The drummer beats out thy end. 65 Katyaís eye and vanity shalt speed thee to death. 66 Thy end burns with flames unseen. 67 An ill reputation shalt an ill man make. 68 Morr finds thee naked as the day of thy birth. Roll The Prophet Speaketh 69 One bullock is safe; two bullocks bringeth the raven. 70 Thirst not for blood, for it thirsts for thee. 71 In thy surest moment, thou shalt fail. 72 Beware the beast in the wood, it is Morrís Messenger. 73 Thou shalt sup from the cup of corruption. 74 Fear the workings of the bonesaw, they are the source of thy death. 75 Thy generosity bringeth tuppence and a sword in return. 76 The withering eye is thy reward, and thy end. 77 Torture and pain echo in thy end. 78 Follow not the steps of Dragomas. 79 Thy doom is wrought from violence. 80 Those born of Rhyaís cauldron shalt build thee a ravenstone. 81 Absence makes thy heart grow weaker. 82 The Myrmidian spring is thy poison. 83 Beware the crow, honour the raven. 84 A greased goat is safer than keeping secrets. 85 Manannís folk shalt love thee not. 86 When thou art thrice haunted, Morr brings peace. 87 Walk with Vobist, for certainty shall take thy breath. 88 Beware the Lord of Murderís barbóit awaits to strike at thee from the darkness. 89 The flashing blade shalt carve thy end. 90 Fearsome engines belch forth fires of thy destruction! 91 Thy end is not the end! 92 As the piper plays his tune, thy heart shall break. 93 Green shalt undo thee. 94 As dark news comes knocking, Morr shalt surely follow. 95 Thou shalt stand like Wymund until Shallya courts thy enemies. 96 Ranald shalt abandon thee. 97 Think not beyond thy station, for change is the herald of Morr. 98 Morr sends a maiden. 99 Without the big cross, thou shalt make the wrong decision. 100 Just before he uttered your doom, the doomsayer died, his face frozen in a mask of horror.
+56 Beware skin of green, it shalt afflict thee. 57 Beware the verdant depths, within doth lie disaster. 58 Be like the dancer, for rude words bring Morr to thy side. 59 The darkest rot shall eat thee from within. 60 The Gods watch over thy end. 61 Heed not the smith, in his artifice lies thy doom. 62 Wear not GrugniÁó¥ baldric, for it shall carry thy death. 63 Ready your coins on the thirteenth chime. 64 The drummer beats out thy end. 65 KatyaÁó¥ eye and vanity shalt speed thee to death. 66 Thy end burns with flames unseen. 67 An ill reputation shalt an ill man make. 68 Morr finds thee naked as the day of thy birth. Roll The Prophet Speaketh 69 One bullock is safe; two bullocks bringeth the raven. 70 Thirst not for blood, for it thirsts for thee. 71 In thy surest moment, thou shalt fail. 72 Beware the beast in the wood, it is MorrÁó¥ Messenger. 73 Thou shalt sup from the cup of corruption. 74 Fear the workings of the bonesaw, they are the source of thy death. 75 Thy generosity bringeth tuppence and a sword in return. 76 The withering eye is thy reward, and thy end. 77 Torture and pain echo in thy end. 78 Follow not the steps of Dragomas. 79 Thy doom is wrought from violence. 80 Those born of RhyaÁó¥ cauldron shalt build thee a ravenstone. 81 Absence makes thy heart grow weaker. 82 The Myrmidian spring is thy poison. 83 Beware the crow, honour the raven. 84 A greased goat is safer than keeping secrets. 85 ManannÁó¥ folk shalt love thee not. 86 When thou art thrice haunted, Morr brings peace. 87 Walk with Vobist, for certainty shall take thy breath. 88 Beware the Lord of MurderÁó¥ barbÊìÅt awaits to strike at thee from the darkness. 89 The flashing blade shalt carve thy end. 90 Fearsome engines belch forth fires of thy destruction! 91 Thy end is not the end! 92 As the piper plays his tune, thy heart shall break. 93 Green shalt undo thee. 94 As dark news comes knocking, Morr shalt surely follow. 95 Thou shalt stand like Wymund until Shallya courts thy enemies. 96 Ranald shalt abandon thee. 97 Think not beyond thy station, for change is the herald of Morr. 98 Morr sends a maiden. 99 Without the big cross, thou shalt make the wrong decision. 100 Just before he uttered your doom, the doomsayer died, his face frozen in a mask of horror.
 
-ÅEFrom darkness cometh the raven.
-ÅEBeasts of the field hath eyes for thee.
-ÅEplague and dark disease shall bring thee to thy knees.
-ÅEabsence makes thy heart grow weaker.
-ÅEthe sword shalt bring no justice, only thine end.
-ÅEThe bun! The pastry! The pie! lo, they are Morrís dishes!
-ÅEthe drummer beats out thine end.
-ÅEThine end is not thine end!
-ÅEthough shalt sup deep of the cup of corruption.
-ÅEhigh places bring a low end. 
+„ÉªFrom darkness cometh the raven.
+„ÉªBeasts of the field hath eyes for thee.
+„Éªplague and dark disease shall bring thee to thy knees.
+„Éªabsence makes thy heart grow weaker.
+„Éªthe sword shalt bring no justice, only thine end.
+„ÉªThe bun! The pastry! The pie! lo, they are MorrÁó¥ dishes!
+„Éªthe drummer beats out thine end.
+„ÉªThine end is not thine end!
+„Éªthough shalt sup deep of the cup of corruption.
+„Éªhigh places bring a low end. 
 
 Drilled
 1
@@ -520,7 +520,7 @@ Friday, August 24, 2018
 Max: Weapon Skill Bonus 
 Tests: Melee Tests when beside an ally with 
 
-You have been trained to fight shoulder-to-shoulder with other soldiers. If an enemy causes you to lose Advantage when standing beside an active ally with the Drilled Talent, you may keep 1 lost Advantage for each time youíve taken the Drilled Talent.
+You have been trained to fight shoulder-to-shoulder with other soldiers. If an enemy causes you to lose Advantage when standing beside an active ally with the Drilled Talent, you may keep 1 lost Advantage for each time youËá¥e taken the Drilled Talent.
 
 Dual Wielder
 1
@@ -530,7 +530,7 @@ Friday, August 24, 2018
 Max: Agility Bonus 
 Tests: Melee or Ranged when attacking with two weapons 
 
-When armed with two weapons, you may attack with both for your Action. Roll to hit with the weapon held in your primary hand. If you hit, determine Damage as normal, but remember to keep your dice roll, as you will use it again. If the first strike hits, once it is resolved, the weapon in your secondary hand can then target an available opponent of your choice using the same dice roll for the first strike, but reversed. So, if you rolled 34 to hit with the first weapon, you use 43 to hit with the second. Remember to modify this second roll by your o?-hand penalty (ÅE0 unless you have the Ambidextrous Talent). This second attack is Opposed with a new defending roll, and damage for this second strike is calculated as normal. The only exception to this is if you roll a Critical for your first strike. If this happens, use the roll on the Critical Table to also act as the roll for the second attack. So, if you scored a critical to the head and rolled 56 on the Critical table for a Major Eye Wound, your second attack would then strike out with a to-hit value of 56. If you choose to attack with both weapons, all your defensive rolls until the start of your next Turn su?er a penalty of ÅE0. You do not gain an Advantage when you successfully strike or Wound an opponent when Dual Wielding unless both attacks hit.
+When armed with two weapons, you may attack with both for your Action. Roll to hit with the weapon held in your primary hand. If you hit, determine Damage as normal, but remember to keep your dice roll, as you will use it again. If the first strike hits, once it is resolved, the weapon in your secondary hand can then target an available opponent of your choice using the same dice roll for the first strike, but reversed. So, if you rolled 34 to hit with the first weapon, you use 43 to hit with the second. Remember to modify this second roll by your o?-hand penalty („Éª0 unless you have the Ambidextrous Talent). This second attack is Opposed with a new defending roll, and damage for this second strike is calculated as normal. The only exception to this is if you roll a Critical for your first strike. If this happens, use the roll on the Critical Table to also act as the roll for the second attack. So, if you scored a critical to the head and rolled 56 on the Critical table for a Major Eye Wound, your second attack would then strike out with a to-hit value of 56. If you choose to attack with both weapons, all your defensive rolls until the start of your next Turn su?er a penalty of „Éª0. You do not gain an Advantage when you successfully strike or Wound an opponent when Dual Wielding unless both attacks hit.
 
 Embezzle
 0
@@ -560,7 +560,7 @@ Friday, August 24, 2018
 Max: Fellowship Bonus 
 Tests: Charm and Gossip (Social Group) 
 
-You can blend in socially with the chosen group so long as you are dressed and acting appropriately. Example social groups for this Talent are: Criminals, Cultists, Guilders, Nobles, Scholars, Servants, and Soldiers. If you do not have the Talent, those with it will note your discomfort in the unfamiliar environment. This is primarily a matter for roleplaying, but may confer a bonus to Fellowship Tests at the GMís discretion.
+You can blend in socially with the chosen group so long as you are dressed and acting appropriately. Example social groups for this Talent are: Criminals, Cultists, Guilders, Nobles, Scholars, Servants, and Soldiers. If you do not have the Talent, those with it will note your discomfort in the unfamiliar environment. This is primarily a matter for roleplaying, but may confer a bonus to Fellowship Tests at the GMÁó¥ discretion.
 
 Fast Hands
 1
@@ -570,7 +570,7 @@ Friday, August 24, 2018
 Max: Dexterity Bonus 
 Tests: Sleight of Hand, Melee (Brawling) to touch an opponent 
 
-You can move your hands with surprising dexterity. Bystanders get no passive Perception Tests to spot your use of the Sleight of Hand Skill, instead they only get to Oppose your Sleight of Hand Tests if they actively suspect and are looking for your movements. Further, attempts to use Melee (Brawling) to simply touch an opponent gain a bonus of +10 ◊ your level in Fast Hands.
+You can move your hands with surprising dexterity. Bystanders get no passive Perception Tests to spot your use of the Sleight of Hand Skill, instead they only get to Oppose your Sleight of Hand Tests if they actively suspect and are looking for your movements. Further, attempts to use Melee (Brawling) to simply touch an opponent gain a bonus of +10 Ôæó your level in Fast Hands.
 
 Fast Shot
 1
@@ -588,7 +588,7 @@ Friday, August 24, 2018
 9:49 PM
 
 Max: Willpower Bonus 
-Tests: Cool to oppose your Enemyís Intimidate, Fear, and Terror 
+Tests: Cool to oppose your EnemyÁó¥ Intimidate, Fear, and Terror 
 
 You are either brave enough or crazy enough that fear of certain enemies has become a distant memory. With a single Average (+20) Cool Test, you may ignore any Intimidate, Fear, or Terror e?ects from the specified enemy when encountered. Typical enemies include Beastmen, Greenskins, Outlaws, Vampires, Watchmen, and Witches.
 
@@ -748,7 +748,7 @@ Friday, August 24, 2018
 Max: Initiative Bonus 
 Tests: Any Test to trail or capture game 
 
-You are a skilled hunter and know all the best techniques to find game. When travelling through well-stocked lands, you are automatically assumed to be able to hunt down enough game to feed yourself and a number of others equal to your level in Hunterís Eye, so long as you have time and the correct equipment. You may secure more food in addition to this using the normal rules for foraging@@.
+You are a skilled hunter and know all the best techniques to find game. When travelling through well-stocked lands, you are automatically assumed to be able to hunt down enough game to feed yourself and a number of others equal to your level in HunterÁó¥ Eye, so long as you have time and the correct equipment. You may secure more food in addition to this using the normal rules for foraging@@.
 
 Impassioned Zeal
 0
@@ -790,14 +790,14 @@ Tests: Leadership during war
 Your rousing words and pleas can turn the tide of a battle. Refer to the following table to see how many people you can now in?uence with your Leadership Skill@@ when at war.
 
 Talent Taken 	Number of soldiers in?uenced
-1 	As normal ◊ 5
-2 	As normal ◊ 10
-3	 As normal ◊ 20
-4	 As normal ◊ 50
-5	 As normal ◊ 100
-6	 As normal ◊ 200
-7	 As normal ◊ 500
-8	 As normal ◊ 1000
+1 	As normal Ôæó 5
+2 	As normal Ôæó 10
+3	 As normal Ôæó 20
+4	 As normal Ôæó 50
+5	 As normal Ôæó 100
+6	 As normal Ôæó 200
+7	 As normal Ôæó 500
+8	 As normal Ôæó 1000
 9	 All who can hear your inspiring voice 
 
 Instinctive Diction
@@ -817,7 +817,7 @@ Friday, August 24, 2018
 
 Max: 1
 
-You are blessed by one of the Gods and can empower one of your Cultís Miracles. Further, you may purchase extra miracles for 100 XP per miracle you currently know. So, if you already know 3 miracles, your next miracle costs 300 XP to purchase. Full rules for learning new miracles are provided in Chapter 7: Religion and Belief@@. Under normal circumstances, you may not learn more than one Invoke (Divine Lore) Talent. Further, you may not learn the Petty Magic or Arcane Magic Talents when you have the Invoke Talent. You can unlearn this Talent for 100 XP, but will lose all of your miracles if you do so, and will also garner the extreme disfavor of your God, with e?ects determined by your GM
+You are blessed by one of the Gods and can empower one of your CultÁó¥ Miracles. Further, you may purchase extra miracles for 100 XP per miracle you currently know. So, if you already know 3 miracles, your next miracle costs 300 XP to purchase. Full rules for learning new miracles are provided in Chapter 7: Religion and Belief@@. Under normal circumstances, you may not learn more than one Invoke (Divine Lore) Talent. Further, you may not learn the Petty Magic or Arcane Magic Talents when you have the Invoke Talent. You can unlearn this Talent for 100 XP, but will lose all of your miracles if you do so, and will also garner the extreme disfavor of your God, with e?ects determined by your GM
 
 Iron Jaw
 1
@@ -846,7 +846,7 @@ Friday, August 24, 2018
 
 Max: 1
 
-You are hard to keep down. You may perform a Challenging (+0) Athletics Test to immediately regain your feet whenever you gain a Prone Condition. This Athletics Test is often modified by the Strength behind the blow that knocks you down: for every +10 Strength the blow has over your Toughness, you su?er a penalty of ÅE0 to the Athletics Test, and vice versa 
+You are hard to keep down. You may perform a Challenging (+0) Athletics Test to immediately regain your feet whenever you gain a Prone Condition. This Athletics Test is often modified by the Strength behind the blow that knocks you down: for every +10 Strength the blow has over your Toughness, you su?er a penalty of „Éª0 to the Athletics Test, and vice versa 
 
 Kingpin
 0
@@ -874,7 +874,7 @@ Friday, August 24, 2018
 Max: Intelligence Bonus
 Tests: Language (All)
 
-You have a natural affinity for languages. Given a monthís exposure to any Language, you count the associated Language Skill as a Basic Skill with a successful Intelligence Test (which can be attempted once per month). Note: Linguistics only works for languages used to frequently communicate with others, so does not work with Language (Magick). 
+You have a natural affinity for languages. Given a monthÁó¥ exposure to any Language, you count the associated Language Skill as a Basic Skill with a successful Intelligence Test (which can be attempted once per month). Note: Linguistics only works for languages used to frequently communicate with others, so does not work with Language (Magick). 
 
 Lip Reading
 0
@@ -884,7 +884,7 @@ Friday, August 24, 2018
 Max: Initiative Bonus
 Tests: Perception Tests concerning this Talent
 
-You can tell what people are saying by simply watching their lips; you do not need to hear what they are saying. If you have an unobstructed view of the speakerís lower face, you can attempt a Perception Test to understand what they are saying. 
+You can tell what people are saying by simply watching their lips; you do not need to hear what they are saying. If you have an unobstructed view of the speakerÁó¥ lower face, you can attempt a Perception Test to understand what they are saying. 
 
 Luck
 0
@@ -893,7 +893,7 @@ Friday, August 24, 2018
 
 Max: Fellowship Bonus
 
-They say when you were born, Ranald smiled. Your maximum Fortune Points now equal your current Fate points plus the number of times youíve taken Luck. 
+They say when you were born, Ranald smiled. Your maximum Fortune Points now equal your current Fate points plus the number of times youËá¥e taken Luck. 
 
 Magical Sense
 0
@@ -903,7 +903,7 @@ Friday, August 24, 2018
 Max: Initiative Bonus
 Tests: Intuition Tests to detect Wizards
 
-You are able to sense the Winds of Magic in others. You may attempt an Average (+20) Intuition Test whenever you encounter a spellcaster. If you pass, you sense the target is a witch. Further, if you score an Astounding Success (+6), can also determine the targetís highest Channeling Specialization. 
+You are able to sense the Winds of Magic in others. You may attempt an Average (+20) Intuition Test whenever you encounter a spellcaster. If you pass, you sense the target is a witch. Further, if you score an Astounding Success (+6), can also determine the targetÁó¥ highest Channeling Specialization. 
 
 Magic Resistance
 1
@@ -1066,7 +1066,7 @@ Friday, August 24, 2018
 9:51 PM
 
 Max: Initiative Bonus
-Tests: Entertain (Sing), Language (Tonal Languages, such as Elth·rin, Cathayan, and Magick)
+Tests: Entertain (Sing), Language (Tonal Languages, such as ElthÁñµin, Cathayan, and Magick)
 
 You have perfect pitch, able to replicate notes perfectly and identify them without even making a Test. Further, add Entertain (Sing) to any Career you enter; if it is already in your Career, you may instead purchase the Skill for 5 XP fewer per Advance. 
 
@@ -1079,13 +1079,13 @@ Max: 1
 You have the spark to cast magic within you and have mastered techniques to control it at a basic level. When you take this Talent, you manifest, and permanently memorise, a number of spells equal to your Willpower Bonus. You can learn extra Petty spells for the following cost in XP.
 
 No. of Petty Spells Currently Known	 XP Cost for a new spell
-Up to Willpower Bonus ◊ 1 	50 XP
-Up to Willpower Bonus ◊ 2 	100 XP
-Up to Willpower Bonus ◊ 3 	150 XP
-Up to Willpower Bonus ◊ 4 	200 XP
+Up to Willpower Bonus Ôæó 1 	50 XP
+Up to Willpower Bonus Ôæó 2 	100 XP
+Up to Willpower Bonus Ôæó 3 	150 XP
+Up to Willpower Bonus Ôæó 4 	200 XP
 ...and so on.
 
-So, if your Willpower Bonus is 3 and you had 3 Petty spells, it will cost you 50XP for the first learned spell, then 100 XP for the next three, and so onÅE
+So, if your Willpower Bonus is 3 and you had 3 Petty spells, it will cost you 50XP for the first learned spell, then 100 XP for the next three, and so on„Éª
 
 Pharmacist
 0
@@ -1117,14 +1117,14 @@ Max: Fellowship Bonus
 You are a skilled orator and know how to work large groups of people. Refer to the following table to see how many people you can now in?uence with your Charm Skill (see page 120)@@ when Public Speaking. 
 
 Talent Taken 	Number of soldiers in?uenced
-1 	As normal ◊ 5
-2 	As normal ◊ 10
-3	 As normal ◊ 20
-4	 As normal ◊ 50
-5	 As normal ◊ 100
-6	 As normal ◊ 200
-7	 As normal ◊ 500
-8	 As normal ◊ 1000
+1 	As normal Ôæó 5
+2 	As normal Ôæó 10
+3	 As normal Ôæó 20
+4	 As normal Ôæó 50
+5	 As normal Ôæó 100
+6	 As normal Ôæó 200
+7	 As normal Ôæó 500
+8	 As normal Ôæó 1000
 9	 All who can hear your inspiring voice 
 
 
@@ -1201,7 +1201,7 @@ Friday, August 24, 2018
 Max: Weapon Skill Bonus
 Tests: Melee when defending
 
-You are used to desperate combats, able to turn even the direst circumstances to your Advantage. If you win an Opposed Melee Test, instead of gaining +1 Advantage, you may take all your opponentís Current Advantage. If you do this, you do not cause any Damage, even if it is your Turn in the Round. 
+You are used to desperate combats, able to turn even the direst circumstances to your Advantage. If you win an Opposed Melee Test, instead of gaining +1 Advantage, you may take all your opponentÁó¥ Current Advantage. If you do this, you do not cause any Damage, even if it is your Turn in the Round. 
 
 Riposte
 1
@@ -1211,7 +1211,7 @@ Friday, August 24, 2018
 Max: Agility Bonus
 Tests: Melee when defending
 
-Conforming to ëthe best defense is o?enceÅE you respond to an incoming attack with a lightning-fast counterstrike of your own. If your weapon has the Fast quality, you may cause Damage when you are attacked, just as if it was your Action. You can Riposte a number of attacks per round equal to your Riposte level. 
+Conforming to Â•èhe best defense is o?ence„Éª you respond to an incoming attack with a lightning-fast counterstrike of your own. If your weapon has the Fast quality, you may cause Damage when you are attacked, just as if it was your Action. You can Riposte a number of attacks per round equal to your Riposte level. 
 
 Clarification: You must win the opposed test when defending to do Damage.
 
@@ -1223,7 +1223,7 @@ Friday, August 24, 2018
 Max: Initiative Bonus
 Tests: Any Lore Test concerning river matters
 
-You know all the tricks for navigating dangerous rivers. You donít need to Test for passing through dangerous stretches of water until the Difficulty for doing so is ÅE0 or lower ÅEyou automatically pass all Tests easier than this. Further, if you have the appropriate Lore (Local) Skill, you need never Test for navigating dangerous waters ÅEyou are assumed to know the route through. 
+You know all the tricks for navigating dangerous rivers. You donÁ®ö need to Test for passing through dangerous stretches of water until the Difficulty for doing so is „Éª0 or lower „Éªyou automatically pass all Tests easier than this. Further, if you have the appropriate Lore (Local) Skill, you need never Test for navigating dangerous waters „Éªyou are assumed to know the route through. 
 
 Robust
 1
@@ -1311,7 +1311,7 @@ Friday, August 24, 2018
 Max: Intelligence Bonus
 Tests: Any Lore Test concerning local detail
 
-You are an inquisitive soul who has travelled far and wide, learning all manner of local information. Add Lore (Local) to any Career you enter; if it is already in Career, you may purchase the Skill, both times ÅEa di?erent Specialty each time, such as Altdorf, Vorbergland, or Ubersreik ÅEfor 5 XP fewer per Advance. 
+You are an inquisitive soul who has travelled far and wide, learning all manner of local information. Add Lore (Local) to any Career you enter; if it is already in Career, you may purchase the Skill, both times „Éªa di?erent Specialty each time, such as Altdorf, Vorbergland, or Ubersreik „Éªfor 5 XP fewer per Advance. 
 
 Second Sight
 0
@@ -1388,7 +1388,7 @@ Friday, August 24, 2018
 
 Max: 1
 
-When determining Damage use your opponentís Toughness Bonus as your Strength Bonus if it is higher; always determine this before any other rules modify your Strength or Strength Bonus. Further, if your target is larger than you, and your score a Critical @@, multiply all melee Damage you cause by the number of steps larger your target is (so, 2 steps = ◊2, 3 steps = ◊3, and so on); this multiplication is calculated after all modifiers are applied. See Size @@. 
+When determining Damage use your opponentÁó¥ Toughness Bonus as your Strength Bonus if it is higher; always determine this before any other rules modify your Strength or Strength Bonus. Further, if your target is larger than you, and your score a Critical @@, multiply all melee Damage you cause by the number of steps larger your target is (so, 2 steps = Ôæó2, 3 steps = Ôæó3, and so on); this multiplication is calculated after all modifiers are applied. See Size @@. 
 
 Small
 1
@@ -1405,7 +1405,7 @@ Friday, August 24, 2018
 9:53 PM
 
 Max: 4
-Tests: Ranged (LongñExtreme Range)
+Tests: Ranged (LongËÉûxtreme Range)
 
 Distance is of no import to your shooting skills, and you are just as adept at picking o? far-away targets as those nearby. You su?er no penalties for shooting at Long range, and half the penalties for Extreme range.@@ 
 
@@ -1495,7 +1495,7 @@ Friday, August 24, 2018
 Max: Weapon Skill Bonus
 Tests: Melee Tests when Striking to Stun
 
-You know where to hit an opponent to bring him down fast. You ignore the ëCalled ShotÅEpenalty to strike the Head Hit Location when using a melee weapon with the Pummel Quality @@. Further, you count all improvised weapons as having the Pummel Quality 
+You know where to hit an opponent to bring him down fast. You ignore the Ëàõalled Shot„Éªpenalty to strike the Head Hit Location when using a melee weapon with the Pummel Quality @@. Further, you count all improvised weapons as having the Pummel Quality 
 
 Strong Back
 0
@@ -1581,7 +1581,7 @@ Friday, August 24, 2018
 
 Max: Initiative Bonus
 
-You know how to find the weak spots in a targetís armor. When you hit a target with a Ranged weapon, you may ignore Armor Points equal to your Sure Shot level. 
+You know how to find the weak spots in a targetÁó¥ armor. When you hit a target with a Ranged weapon, you may ignore Armor Points equal to your Sure Shot level. 
 
 Surgery
 1
@@ -1589,9 +1589,9 @@ Friday, August 24, 2018
 9:55 PM
 
 Max: Intelligence Bonus
-Tests: Heal Tests outside combat rounds; i.e. when you have time to do it ëproperlyÅE
+Tests: Heal Tests outside combat rounds; i.e. when you have time to do it Âè¢roperly„Éª
 
-You are a surgeon, able to open and close the ?esh in order to heal others. You can treat any Critical Wound marked as needing Surgery. You can also perform surgery to resolve internal issues with an Extended Challenging (+0) Heal Test with a target SL determined by the GM (usually 5ÅE0) depending upon the difficulty of the procedure at hand. This will cause 1d10 Wounds and 1 Bleeding Condition per Test, meaning surgery has a high chance of killing a patient if the surgeon is not careful. After surgery, the patient must pass an Average (+20) Endurance Test or gain a Minor Infection. 
+You are a surgeon, able to open and close the ?esh in order to heal others. You can treat any Critical Wound marked as needing Surgery. You can also perform surgery to resolve internal issues with an Extended Challenging (+0) Heal Test with a target SL determined by the GM (usually 5„Éª0) depending upon the difficulty of the procedure at hand. This will cause 1d10 Wounds and 1 Bleeding Condition per Test, meaning surgery has a high chance of killing a patient if the surgeon is not careful. After surgery, the patient must pass an Average (+20) Endurance Test or gain a Minor Infection. 
 
 Tenacious
 0
@@ -1621,7 +1621,7 @@ Friday, August 24, 2018
 Max: Intelligence Bonus
 
 A recollection technique first instigated by the Cult of Verena, reputedly from Elven practices taught by the Loremasters
-of Hoeth, Tower of Memories allows you to perfectly recall a sequence of facts by storing them in an imaginary spire. You can recall a sequence as long as your Intelligence without having to make a Test. For every 10 more items you attempt to memorize, you must make an increasingly difficult Intelligence Test to recall the list correctly, starting at Very Easy (+60) for +10, Easy (+40) for +20, Average (+20) for +30, and so on. Beyond itís obvious utility for Gamble Tests, where having this Talent adds a bonus of +20 to +60 depending upon how useful recalling sequences is to the game at hand, the GM can apply bonuses to other Tests as appropriate. Each time you take this Talent you may recall an extra sequence without having to forget a previously stored one 
+of Hoeth, Tower of Memories allows you to perfectly recall a sequence of facts by storing them in an imaginary spire. You can recall a sequence as long as your Intelligence without having to make a Test. For every 10 more items you attempt to memorize, you must make an increasingly difficult Intelligence Test to recall the list correctly, starting at Very Easy (+60) for +10, Easy (+40) for +20, Average (+20) for +30, and so on. Beyond itÁó¥ obvious utility for Gamble Tests, where having this Talent adds a bonus of +20 to +60 depending upon how useful recalling sequences is to the game at hand, the GM can apply bonuses to other Tests as appropriate. Each time you take this Talent you may recall an extra sequence without having to forget a previously stored one 
 
 Trapper
 1
@@ -1706,7 +1706,7 @@ Friday, August 24, 2018
 
 Max: 1
 
-You gain a permanent +5 bonus to your starting Weapon Skill Characteristic (doesnít count as Advances). 
+You gain a permanent +5 bonus to your starting Weapon Skill Characteristic (doesnÁ®ö count as Advances). 
 
 Waterman
 0
@@ -1734,7 +1734,7 @@ Friday, August 24, 2018
 
 Max: Initiative Bonus
 
-You are used to anticipating the needs of others, and yourself. A number of times per session equal to your level of Well-Prepared, you may pull the trapping required for the current situation from your backpack (or similar) as long as it is Encumbrance 0, could feasibly been bought recently, and doesnít stretch credibility too far. This could be anything from a ?ask of spirits to fortify a wounded comrade to a pfennig-whistle needed by a passing entertainer. Whenever you do this, you must deduct the cost for the prepared item from your purse, representing the coin you spent earlier. 
+You are used to anticipating the needs of others, and yourself. A number of times per session equal to your level of Well-Prepared, you may pull the trapping required for the current situation from your backpack (or similar) as long as it is Encumbrance 0, could feasibly been bought recently, and doesnÁ®ö stretch credibility too far. This could be anything from a ?ask of spirits to fortify a wounded comrade to a pfennig-whistle needed by a passing entertainer. Whenever you do this, you must deduct the cost for the prepared item from your purse, representing the coin you spent earlier. 
 
 Witch!
 0
